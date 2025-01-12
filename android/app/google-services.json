@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "357524149221",
+    "firebase_url": "https://dim0524-default-rtdb.firebaseio.com",
+    "project_id": "dim0524",
+    "storage_bucket": "dim0524.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357524149221:android:6ff55ed15cd5a11d1c550c",
+        "android_client_info": {
+          "package_name": "com.example.f08_eshop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA525-RBhlWazojS-9PAasT62ChaclWsI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357524149221:android:cd12ec36cdbac9491c550c",
+        "android_client_info": {
+          "package_name": "com.example.recursosnativos.dim0524"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA525-RBhlWazojS-9PAasT62ChaclWsI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
